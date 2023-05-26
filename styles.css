@@ -5,6 +5,9 @@ body{
 
 *{
 	text-align: center;
+	box-sizing:border-box;
+	padding:0px;
+	margin:0px:
 }
 
 .player_one{
@@ -20,5 +23,5 @@ body{
 	border:1px solid black;
 	border-radius:4px;
 	padding:10px;
-	margin: 20%;
+	margin: 24%;
 }
